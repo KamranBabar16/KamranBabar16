@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamran Babar, From Pakistan.
 - 👀 I’m interested in Graphics Designing and Programming.
-- 🌱 I’m currently studying in Superior University Lahore. 
+- 🌱 I’m currently studying at Superior University Lahore. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through: ItsKamranBabar@gmail.com
      Or my website at: https://kamranbabar16.000webhostapp.com
