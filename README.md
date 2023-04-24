@@ -1,6 +1,6 @@
-- 🙌 Hey there, I'm Kamran Babar, hailing from the vibrant land of Pakistan.
+- 🙌 Hey there, I'm Kamran Babar, from Pakistan.
 -	👀 My passion lies in the realms of graphics designing and full-stack development.
--	🌱 Currently, I'm pursuing my studies at the prestigious Superior University in Lahore.
+-	🌱 Currently, I'm pursuing my studies at the Superior University in Lahore.
 -	💞️ I'm open to collaborating on exciting projects that push the boundaries of creativity and innovation.
 -	📫 You can get in touch with me via email at hello@KamranBabar.com or through my website at https://kamranbabar.com. 
 -	Let's connect and create something amazing together!
